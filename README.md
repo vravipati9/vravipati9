@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Veera
+- 👀 I’m interested in Full Stack Development with Java as a Backend.
+- 🌱 I’m currently learning Microsoft Azure.
+- 💞️ I’m looking to collaborat to learn and develop Microservices on top of Docker and Kubernetes.
+- 📫 You can reach me at vravipati9@gmail.com
